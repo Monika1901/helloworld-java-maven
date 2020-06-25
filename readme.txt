@@ -20,7 +20,7 @@
 ===============ARTIFACTORY=================
 <distributionManagement>
 	<repository>
-		<id>rajesh</id>
+		<id>rajesh1</id>
 		<name>Internal Releases</name>
 		<url>http://13.127.94.210:8081/artifactory/list/rajesh-release/</url>
 	</repository>
