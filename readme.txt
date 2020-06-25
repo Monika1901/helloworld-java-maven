@@ -9,7 +9,7 @@
 	</repository>
  
 	<snapshotRepository>
-		<id>tata</id>
+		<id>tata1</id>
 		<name>Internal Releases</name>
 		<url>http://52.66.106.91:8081/nexus/content/repositories/snapshot/</url>
 	</snapshotRepository>
