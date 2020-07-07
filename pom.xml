@@ -37,17 +37,20 @@
 		</plugin>
 	</plugins>
 	</build>
+	
 <distributionManagement>
-    <repository>
-        <id>aleesha</id>
-        <name>aleesha-releases</name>
-        <url>http://13.232.2.248:8080/artifactory/muniraja</url>
-    </repository>
-    <snapshotRepository>
-        <id>aleesha</id>
-        <name>aleesha-snapshots</name>
-        <url>http://13.232.2.248:8080/artifactory/muniraja</url>
-    </snapshotRepository>
+	<repository>
+		<id>monikaNexus</id>
+		<name>Internal Releases</name>
+		<url>http://192.168.11.128:8081/repository/monika/</url>
+	</repository>
+ 
+	<snapshotRepository>
+		<id>monikaNexus</id>
+		<name>Internal Releases</name>
+		<url>http://192.168.11.128:8081/repository/monika/</url>
+	</snapshotRepository>
+
 </distributionManagement>
 
 
